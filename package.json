@@ -1,0 +1,9 @@
+{
+  "name": "vibecall",
+  "version": "0.1.0",
+  "private": true,
+  "description": "多人视频通话 + 挂断后自动转写总结（P2P WebRTC，零后端）",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
